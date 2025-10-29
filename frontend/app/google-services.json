@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148376877219",
+    "project_id": "invisioassist",
+    "storage_bucket": "invisioassist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148376877219:android:69b1c519c8518b5e176716",
+        "android_client_info": {
+          "package_name": "com.muggles.invisioassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148376877219-43qqt6ks5j9htn2gfh8rsmo139mebku1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muggles.invisioassist",
+            "certificate_hash": "be3146e8e5a65cba64561e317ffcd093112a2fd5"
+          }
+        },
+        {
+          "client_id": "148376877219-htk0ds8deiii4c44df62498nrliv7gt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPaQyw-GGVndWkWLl2gMbQUgsMdPqv3mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148376877219-htk0ds8deiii4c44df62498nrliv7gt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
