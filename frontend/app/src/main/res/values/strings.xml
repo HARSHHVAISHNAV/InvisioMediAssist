@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Invisioassist</string>
+
+    <!-- 🎙 Voice Command & TTS Messages -->
+    <string name="voice_welcome">
+        Listening. Say Scan to capture, Repeat to hear last result, Help to list commands, or Exit to close.
+    </string>
+
+    <string name="voice_listening">Listening</string>
+    <string name="voice_not_recognized">I didn’t catch that. Please say it again.</string>
+    <string name="voice_help">You can say Scan, Repeat, Help or Exit.</string>
+    <string name="voice_capturing">Capturing now.</string>
+    <string name="voice_repeating">Repeating the last result.</string>
+    <string name="voice_closing">Closing application.</string>
+    <string name="voice_no_last_result">No previous result available.</string>
+    <string name="voice_permission_required">Microphone permission is required. Please allow it.</string>
 </resources>
